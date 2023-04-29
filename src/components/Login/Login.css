@@ -1,0 +1,25 @@
+.form-container {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 500px;
+  height: 700px;
+
+  border: 1px solid #95a0a7;
+  border-radius: 8px;
+  margin: 20px 500px;
+}
+.form-title {
+  text-align: center;
+}
+.content {
+  margin-left: 20px;
+}
+.btn-submit {
+    margin-top: 10px;
+background-color: orange;
+margin-left: 20px;
+}
+.text-err{
+    color: red;
+}
